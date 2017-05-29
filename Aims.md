@@ -1,6 +1,9 @@
 # Aims for website
 
 ## Showcase research ability
+- jupyter HTML renders or even executable notebooks
+  - bokeh
+  - plotly
 
 ## Self care / entertainment
 - flask
