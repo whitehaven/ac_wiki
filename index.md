@@ -1,6 +1,10 @@
-# [purpose of wiki](purpose of wiki)
+# WHRI Strategy Wiki
 
-# Projects
+## Projects
 
-## Personal Website
+### Personal Website
 [Aims](Aims)
+
+## [Current Operations](Current Operations)
+
+[purpose of wiki](purpose of wiki)
