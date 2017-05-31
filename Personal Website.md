@@ -21,4 +21,5 @@
 ## Keep knowledge base
 - wiki for knowledge base
 
-
+- [ ] look at enduro.js
+- [ ] look at flask-based cms
