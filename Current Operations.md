@@ -9,7 +9,9 @@
   - [ ] Should I be using `git pull --rebase`?
 
 ## Evaluation
-- [ ] Determine usability of bash vi mode
+- [ ] consider non-historical sync for `ac_wiki`
+- [X] Determine usability of bash vi mode
+  - good, integrated into `dev` & `master` in `dottie_bunch`
 - [ ] Determine utility of timewarrior
-- [ ] investigate feasibility of learning `JS` & `Node.js`
-
+- [ ] investigate feasibility of learning `javascript` &/| `Node.js`
+- [ ] investigate learning `haskell`
