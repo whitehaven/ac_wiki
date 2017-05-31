@@ -2,8 +2,7 @@
 
 ## Projects
 
-### Personal Website
-[Aims](Aims)
+### [Personal Website](Personal Website)
 
 ## [Current Operations](Current Operations)
 

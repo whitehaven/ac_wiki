@@ -9,6 +9,8 @@
 - flask
   - custom app
   - could share with nginx
+  - tried doing limited one - very complex and time-intensive
+
 ### Blog,even?
 - prebuilt cms
 
@@ -18,4 +20,5 @@
 
 ## Keep knowledge base
 - wiki for knowledge base
+
 
