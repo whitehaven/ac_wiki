@@ -15,3 +15,7 @@
 - [ ] Determine utility of timewarrior
 - [ ] investigate feasibility of learning `javascript` &/| `Node.js`
 - [ ] investigate learning `haskell`
+
+## Tasks
+- [ ] get `keystone.js` serving on WAN
+- [ ] install taskwiki

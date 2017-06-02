@@ -17,6 +17,10 @@ Current Operations.md:15:- [ ] Determine utility of timewarrior
 Current Operations.md:16:- [ ] investigate feasibility of learning `javascript` &/| `Node.js`
 Current Operations.md:17:- [ ] investigate learning `haskell`
 Current Operations.md:18-
+Current Operations.md:19-## Tasks
+Current Operations.md:20:- [ ] get `keystone.js` serving on WAN
+Current Operations.md:21:- [ ] install taskwiki
+Current Operations.md:22-
 Personal Website.md:22-- wiki for knowledge base
 Personal Website.md:23-
 Personal Website.md:24:- [ ] look at enduro.js
