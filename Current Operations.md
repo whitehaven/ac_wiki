@@ -6,7 +6,7 @@
 - [ ] Learn `tmux` unattended/detached operations
 - [ ] Learn `ranger` application (file manager)
 - [ ] Learn `git rebase` and its applications
-  - [ ] Should I be using `git pull --rebase`?
+  - [X] Should I be using `git pull --rebase`?
 
 ## Evaluation
 - [ ] consider non-historical sync for `ac_wiki`
