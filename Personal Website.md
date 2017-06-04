@@ -13,6 +13,7 @@
 
 ### Blog,even?
 - prebuilt cms
+- it appears that you don't need to know the language to use a CMS.
 
 ## Fun showcase
 
