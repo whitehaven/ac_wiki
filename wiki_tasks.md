@@ -7,7 +7,7 @@ Current Operations.md:5-## Learning/familizarization
 Current Operations.md:6:- [ ] Learn `tmux` unattended/detached operations
 Current Operations.md:7:- [ ] Learn `ranger` application (file manager)
 Current Operations.md:8:- [ ] Learn `git rebase` and its applications
-Current Operations.md:9:  - [ ] Should I be using `git pull --rebase`?
+Current Operations.md:9-  - [X] Should I be using `git pull --rebase`?
 Current Operations.md:10-
 Current Operations.md:11-## Evaluation
 Current Operations.md:12:- [ ] consider non-historical sync for `ac_wiki`
@@ -21,11 +21,11 @@ Current Operations.md:19-## Tasks
 Current Operations.md:20:- [ ] get `keystone.js` serving on WAN
 Current Operations.md:21:- [ ] install taskwiki
 Current Operations.md:22-
-Personal Website.md:22-- wiki for knowledge base
-Personal Website.md:23-
-Personal Website.md:24:- [ ] look at enduro.js
-Personal Website.md:25:- [ ] look at flask-based cms
-Personal Website.md:26-
+Personal Website.md:23-- wiki for knowledge base
+Personal Website.md:24-
+Personal Website.md:25:- [ ] look at enduro.js
+Personal Website.md:26:- [ ] look at flask-based cms
+Personal Website.md:27-
 Fitness.md:4-  - meals must satisfy hunger; hunger over time breaks will
 Fitness.md:5-  - 62% of big, maintained weight losers watch <10h TV/wk
 Fitness.md:6:  - [ ] Elinav and Segal - ML algo: gut microbiome -> blood sugar level after meal
